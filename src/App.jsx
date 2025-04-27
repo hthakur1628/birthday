@@ -207,7 +207,7 @@ const App = () => {
         <footer className="footer-glass py-6 mt-12">
           <div className="container mx-auto px-4 text-center">
             <p className="flex items-center justify-center gap-2 text-white">
-              Made with <Heart className="h-4 w-4 text-pink-300 animate-pulse" /> for KAKUL RANA
+              Made with <Heart className="h-4 w-4 text-pink-300 animate-pulse" /> for KRATI RANA
             </p>
           </div>
         </footer>
